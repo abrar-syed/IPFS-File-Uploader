@@ -5,7 +5,7 @@
 2.Download all the dependencies 
     - run 'npm install ipfs-http-client ejs express-fileupload body-parser'
     
-3. Clone the repository.
+3.Clone the repository.
 
 4.Run the command 'ipfs daemon' to connect to ipfs.
 
