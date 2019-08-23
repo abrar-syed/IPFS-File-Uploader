@@ -13,4 +13,5 @@
 
 6.Now watch the system on localhost.
 
+![alt text](http://url/to/C:\Users\pc\Pictures\Screenshots)
 
